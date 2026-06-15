@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm August
 
-<!--
-**AugustDaub/AugustDaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and entrepreneur building software that helps service businesses operate more efficiently.
 
-Here are some ideas to get you started:
+## Current Project: Helm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Helm is a business operations platform built with Python, Flask, SQLAlchemy, and SQLite.
+
+### Current Features
+
+- CRM
+- Scheduling
+- Lead Management
+- Media Management
+- Reporting
+- Business Automation
+
+### Technical Highlights
+
+- Built and maintain a 12,000+ line Python application
+- Designed relational database models with SQLAlchemy
+- Refactored the application into modular route and service layers
+- Developed automation workflows to reduce administrative work
+
+## Tech Stack
+
+Python • Flask • SQLAlchemy • SQLite • Git • GitHub
+
+## Currently Working On
+
+- Application architecture improvements
+- Business workflow automation
+- Modular route and service layer refactoring
