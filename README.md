@@ -1,33 +1,47 @@
-# Hi, I'm August
+Hi, I’m August
 
 Software developer and entrepreneur building software that helps service businesses operate more efficiently.
 
-## Current Project: Helm
+Current Project: Helm
 
-Helm is a business operations platform built with Python, Flask, SQLAlchemy, and SQLite.
+Helm is a business operations platform built with Python, Flask, SQLAlchemy, and SQLite. It combines CRM, scheduling, lead management, media workflows, reporting, and business automation into a single application.
 
-### Current Features
+Current Features
 
-- CRM
-- Scheduling
-- Lead Management
-- Media Management
-- Reporting
-- Business Automation
+* CRM and lead management
+* Scheduling and task management
+* Outreach and follow-up workflows
+* Media management and content organization
+* Reporting and operational tracking
+* Business process automation
 
-### Technical Highlights
+Technical Highlights
 
-- Built and maintain a 12,000+ line Python application
-- Designed relational database models with SQLAlchemy
-- Refactored the application into modular route and service layers
-- Developed automation workflows to reduce administrative work
+* Built and maintained a 12,000+ line Python application
+* Designed relational database models using SQLAlchemy
+* Developed multiple business workflow modules from scratch
+* Implemented CRM, scheduling, media management, and reporting systems
+* Refactored application architecture into modular route and service layers
 
-## Tech Stack
+Architecture
+
+The application is organized using a modular Flask architecture.
+
+app.py
+models.py
+routes/
+services/
+templates/
+
+Recent development efforts have focused on refactoring business logic into dedicated route and service layers to improve maintainability and scalability.
+
+Tech Stack
 
 Python • Flask • SQLAlchemy • SQLite • Git • GitHub
 
-## Currently Working On
+Currently Working On
 
-- Application architecture improvements
-- Business workflow automation
-- Modular route and service layer refactoring
+* Application architecture improvements
+* Business workflow automation
+* Modular route and service layer refactoring
+* Expansion of scheduling and operational planning tools
