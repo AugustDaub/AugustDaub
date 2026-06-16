@@ -2,9 +2,9 @@
 
 Software developer and entrepreneur building software that helps service businesses operate more efficiently.
 
-##HELM
-Helm is a business operations platform built with Python, Flask, SQLAlchemy, and SQLite. It combines CRM, scheduling, lead management, media workflows, reporting, and business automation into a single application.
+## Helm
 
+Helm is a business operations platform built with Python, Flask, SQLAlchemy, and SQLite. It combines CRM, scheduling, lead management, media workflows, reporting, and business automation into a single application.
 ### Current Features
 
 - CRM and lead management
